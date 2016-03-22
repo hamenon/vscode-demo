@@ -21,3 +21,5 @@ $(function () {
     setBodyColor();
   });
 });
+
+// Some comment
